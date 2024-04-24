@@ -1,3 +1,3 @@
 # ping-pong
 
-Jogo criado com HTML JavaScript.
+Jogo criado com HTML & JavaScript.
